@@ -21,7 +21,12 @@ Please refer to the images for the analysis of the data for the months of June a
 ![](Resources/June.png)
 ![](Resources/December.png)
 
-Based on the data the weather is pretty even throughout the year and is ideal for surfing during these two months.
+Based on the data the weather is pretty even throughout the year and is ideal for surfing during these two months....except for the following diferences
+		1) The mean temperature is lower in December
+		2) The standard deviation from the mean temperature is higher in December
+		3) the hottest days are in June with the max temperature being the highest.
+		4) The collest days are in December with the min temperature being the lowest.
+
 
 More analysis on the weather throughout the year needs to be done before investing in this venture
 
